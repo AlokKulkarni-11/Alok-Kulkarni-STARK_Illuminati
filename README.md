@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok Kulkarni</h1>
 <h3 align="center">An Absolute Learner and a CSE student at WCE sangli</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkulkarni-11&label=Profile%20views&color=0e75b6&style=flat" alt="alokkulkarni-11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokkulkarni-11" alt="alokkulkarni-11" /></a> </p>
-
 - 🔭 I’m currently working on **Sanctum Sanctorum**
 
 - 🌱 I’m currently learning **java, react, flutter**
